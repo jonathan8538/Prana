@@ -3,7 +3,7 @@ import { Play, Pause, Sparkles, Trophy, Target, ChevronRight, Star, Award, Activ
 import io from 'socket.io-client';
 import megaMendung from './assets/mega-mendung.png';
 
-const SOCKET_URL = 'http://localhost:5000';
+const SOCKET_URL = 'https://dawn-unreversible-dreama.ngrok-free.dev ';
 // ✨ TAMBAH COMPONENT INI
 const FloatingBatik = () => {
   return (
