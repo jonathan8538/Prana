@@ -54,7 +54,7 @@ class TariBaliDetector:
         self.pose_detector = None
         
         # Tutorial Video
-        self.dataset_path = "dataset\train\Agem_Kanan"
+        self.dataset_path = "Agem_Kanan"
         self.tutorial_cap = None
         self.load_tutorial_video()
     
