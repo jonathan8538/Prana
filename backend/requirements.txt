@@ -11,3 +11,5 @@ xgboost>=2.0.0
 joblib>=1.3.0
 eventlet==0.33.3
 python-engineio==4.8.0
+opencv-python
+eventlet
